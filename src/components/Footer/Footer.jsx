@@ -119,34 +119,33 @@ export default function Footer() {
                     Contact
                   </h3>
                   <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                    <a href="mailto:mohamed.ahmed.emary@gmail.com">
-                      mohamed.ahmed.emary@gmail.com
-                    </a>
+                    <a href="mailto:abc@gmail.com">
+                     </a>
                   </span>
                   <span className="block space-x-2 mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
                     <a
-                      href="https://linkedin.com/in/mohamedemary"
+                      href="https://linkedin.com/in/abc"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-lg fa-fw  fab fa-linkedin"></i>
                     </a>
                     <a
-                      href="https://github.com/mohamedemary"
+                      href="https://github.com/abc"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-lg fa-fw  fab fa-github"></i>
                     </a>
                     <a
-                      href="mailto:mohamed.ahmed.emary@gmail.com"
+                      href="mailto:abc@gmail.com"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <i className="fa-lg fa-fw  far fa-envelope"></i>
                     </a>
                     <a
-                      href="https://leetcode.com/Spark71"
+                      href="https://leetcode.com/abc"
                       className="inline"
                       target="_blank"
                       rel="noopener noreferrer"
