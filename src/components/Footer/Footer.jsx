@@ -177,7 +177,7 @@ export default function Footer() {
           </div>
           <div>
             <div className="text-center italic py-3 text-gray-500 dark:text-gray-400">
-              Made with love and passion by Mohamed Emary
+             
             </div>
           </div>
         </div>
