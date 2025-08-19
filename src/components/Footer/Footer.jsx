@@ -27,38 +27,10 @@ export default function Footer() {
                   <h3 className="text-gray-700 uppercase dark:text-white">
                     Other Sites
                   </h3>
-                  <a
-                    href="https://mohamedemary.github.io/route-frontend/assignments/10-daniels/index.html"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  >
-                    Daniels
-                  </a>
-                  <a
-                    href="https://mohamedemary.github.io/route-frontend/assignments/07-devFolio/index.html"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  >
-                    Devfolio
-                  </a>
-                  <a
-                    href="https://game-over-ivory.vercel.app/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  >
-                    Game Over
-                  </a>
-                  <a
-                    href="https://todo-app-wine-tau.vercel.app/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
-                  >
-                    Todo App
-                  </a>
+                 
+                 
+                
+                 
                 </div>
                 <div>
                   <h3 className="text-gray-700 uppercase dark:text-white">
