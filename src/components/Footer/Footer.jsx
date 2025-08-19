@@ -91,22 +91,13 @@ export default function Footer() {
                     Contact
                   </h3>
                   <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                    <a href="https://accounts.google.com/b/0/AddMailService">
-                     </a>
+                   
                   </span>
                   <span className="block space-x-2 mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                    <a
-                      href="https://www.linkedin.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
+                    
                       <i className="fa-lg fa-fw  fab fa-linkedin"></i>
                     </a>
-                    <a
-                      href="https://github.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
+                   
                       <i className="fa-lg fa-fw  fab fa-github"></i>
                     </a>
                     <a
@@ -116,12 +107,7 @@ export default function Footer() {
                     >
                       <i className="fa-lg fa-fw  far fa-envelope"></i>
                     </a>
-                    <a
-                      href="https://leetcode.com/"
-                      className="inline"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
+                   
                       <svg
                         className="inline text-sm"
                         xmlns="http://www.w3.org/2000/svg"
